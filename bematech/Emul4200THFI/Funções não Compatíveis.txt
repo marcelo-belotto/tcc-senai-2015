@@ -1,0 +1,37 @@
+---------------------------------------------------------------------------------
+As funções abaixo não são compatíveis com o CV 09/09, retornando para a aplicação
+PAF o status 6,4,1,1 (comando inexistente/comando não executado).
+---------------------------------------------------------------------------------
+
+Bematech_FI_AbreBilhetePassagem
+Bematech_FI_AbreBilhetePassagemMFD
+Bematech_FI_AtivaDesativaCorteTotalMFD
+Bematech_FI_AtivaDesativaGuilhotinaMFD
+Bematech_FI_Autenticacao
+Bematech_FI_AutenticacaoMFD
+Bematech_FI_ContadorBilhetePassagem
+Bematech_FI_DAVEmitidosArquivo
+Bematech_FI_DAVEmitidosRelatorioGerencial
+Bematech_FI_ForcaImpactoAgulhas
+Bematech_FI_ImprimeCheque
+Bematech_FI_ImprimeChequeMFD
+Bematech_FI_ImprimeChequeMFDEx
+Bematech_FI_ImprimeCopiaCheque
+Bematech_FI_ImprimeDepartamentos
+Bematech_FI_ImprimeInformacaoChequeMFD
+Bematech_FI_IncluiCidadeFavorecido
+Bematech_FI_LeituraChequeMFD
+Bematech_FI_NomeiaDepartamento
+Bematech_FI_NumeroSerieMemoriaMFD
+Bematech_FI_ProgramaCaracterAutenticacao
+Bematech_FI_ProgramaMoedaPlural
+Bematech_FI_ProgramaMoedaSingular
+Bematech_FI_ResetaImpressora
+Bematech_FI_RetornaFatMFD
+Bematech_FI_TamanhoTotalMFD
+Bematech_FI_TerminaFechamentoCupomCodigoBarrasMFD
+Bematech_FI_TotalLivreMFD
+Bematech_FI_VerificaDepartamentos
+Bematech_FI_VerificaEpromConectada
+Bematech_FI_VerificaStatusCheque
+Bematech_FI_ViraChequeMFD
